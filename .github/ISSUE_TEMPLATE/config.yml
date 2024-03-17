@@ -1,11 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 帮助文档反馈
-    url: https://github.com/LTCatt/PCL2Help/issues
-    about: 提交与 PCL 帮助文档（更多 → 帮助）中的具体内容相关的反馈
-  - name: 提问
-    url: https://github.com/Hex-Dragon/PCL2/discussions/new?category=%E6%8F%90%E9%97%AE
-    about: 我想问一些 PCL 相关的问题……
-  - name: 讨论
-    url: https://github.com/Hex-Dragon/PCL2/discussions/new?category=%E8%AE%A8%E8%AE%BA
-    about: 我想讨论一些 PCL 相关的事情……
+  - name: 征集主页到 PCL 仓库（Hex-Dragon）
+    url: https://github.com/Hex-Dragon/PCL2/discussions/2528
+    about: 提交 PCL 主页给**龙猫**审核，通过则加入 **PCL2 预设主页**
+   - name: 征集主页到 PCL 主页市场（MFn233）
+    url: https://github.com/MFn233/PCL-Mainpage-Market/issues/new?title=[新主页]&labels=新主页
+    about: 提交 PCL 主页给**Mfn233**审核，通过则加入 **主页市场**
